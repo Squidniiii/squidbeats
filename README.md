@@ -10,6 +10,10 @@ Download Python here: [https://www.python.org/downloads/]
 
 Download discord.py: [https://pypi.org/project/discord.py/]
 
+Install python-dotenv: [https://pypi.org/project/python-dotenv/]
+
+Install youtube-dl: [https://youtube-dl.org/]
+
 It is recommended that you do this in a Python virtual environment but idgaf what do i know i'm doing this for the meme
 
 ## Clone this repo:
